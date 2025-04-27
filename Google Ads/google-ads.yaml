@@ -1,0 +1,6 @@
+login_customer_id: xxx
+developer_token : xxx
+refresh_token : xxx 
+client_id : xxx
+client_secret : xxx
+use_proto_plus: Colocar True ou False
